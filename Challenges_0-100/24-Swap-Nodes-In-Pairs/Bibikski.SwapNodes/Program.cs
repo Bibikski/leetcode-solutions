@@ -1,5 +1,6 @@
 ﻿using Bibikski.SwapNodes;
 
+//Test Node List
 ListNode node = new ListNode()
 {
     val = 1,
@@ -20,6 +21,4 @@ ListNode node = new ListNode()
         }
     }
 };
-node = null; 
-
 new SwapNodes().SwapPairs(node);
