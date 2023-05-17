@@ -1,0 +1,15 @@
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\bin\Debug\net7.0\Bibikski.MaximumTwinSum.exe
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\bin\Debug\net7.0\Bibikski.MaximumTwinSum.deps.json
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\bin\Debug\net7.0\Bibikski.MaximumTwinSum.runtimeconfig.json
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\bin\Debug\net7.0\Bibikski.MaximumTwinSum.dll
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\bin\Debug\net7.0\Bibikski.MaximumTwinSum.pdb
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.csproj.AssemblyReference.cache
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.AssemblyInfoInputs.cache
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.AssemblyInfo.cs
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.csproj.CoreCompileInputs.cache
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.dll
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\refint\Bibikski.MaximumTwinSum.dll
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.pdb
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\Bibikski.MaximumTwinSum.genruntimeconfig.cache
+C:\leetcode-solutions\Challenges_2100-2200\2130-Maximum-Twin-Sum-Linked-List\Bibikski.MaximumTwinSum\obj\Debug\net7.0\ref\Bibikski.MaximumTwinSum.dll
