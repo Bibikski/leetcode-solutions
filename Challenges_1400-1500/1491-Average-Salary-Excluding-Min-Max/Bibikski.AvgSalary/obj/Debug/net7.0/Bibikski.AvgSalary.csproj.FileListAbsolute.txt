@@ -1,0 +1,15 @@
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\bin\Debug\net7.0\Bibikski.AvgSalary.exe
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\bin\Debug\net7.0\Bibikski.AvgSalary.deps.json
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\bin\Debug\net7.0\Bibikski.AvgSalary.runtimeconfig.json
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\bin\Debug\net7.0\Bibikski.AvgSalary.dll
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\bin\Debug\net7.0\Bibikski.AvgSalary.pdb
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.csproj.AssemblyReference.cache
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.AssemblyInfoInputs.cache
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.AssemblyInfo.cs
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.csproj.CoreCompileInputs.cache
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.dll
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\refint\Bibikski.AvgSalary.dll
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.pdb
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\Bibikski.AvgSalary.genruntimeconfig.cache
+C:\leetcode-solutions\Challenges_1400-1500\1491-Average-Salary-Excluding-Min-Max\Bibikski.AvgSalary\obj\Debug\net7.0\ref\Bibikski.AvgSalary.dll
