@@ -1,0 +1,15 @@
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/bin/Debug/net7.0/Bibikski.ReverseInteger
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/bin/Debug/net7.0/Bibikski.ReverseInteger.deps.json
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/bin/Debug/net7.0/Bibikski.ReverseInteger.runtimeconfig.json
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/bin/Debug/net7.0/Bibikski.ReverseInteger.dll
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/bin/Debug/net7.0/Bibikski.ReverseInteger.pdb
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.csproj.AssemblyReference.cache
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.AssemblyInfoInputs.cache
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.AssemblyInfo.cs
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.csproj.CoreCompileInputs.cache
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.dll
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/refint/Bibikski.ReverseInteger.dll
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.pdb
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/Bibikski.ReverseInteger.genruntimeconfig.cache
+/Users/bibikski/github/leetcode-solutions/Challenges_0-100/7-Reverse-Integer/Bibikski.ReverseInteger/obj/Debug/net7.0/ref/Bibikski.ReverseInteger.dll
